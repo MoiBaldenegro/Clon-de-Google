@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+	padding: 0;
+    font-family: roboto;
+	}
+ .header__section--img{
+    width: 8em;
+    border-radius: 45%;
+    margin-top: 1em;
+    font-size: 3px;
+ }   
+.header__section--01{
+    position:absolute;
+    right: 0;
+    top: 1em;
+    right: 2em
+}
+
+.header__section--imagenes{
+    margin: 0 6em 0 1em;
+}
+
